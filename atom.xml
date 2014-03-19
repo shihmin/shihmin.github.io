@@ -4,14 +4,23 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://shihmin.github.io/atom.xml" rel="self"/>
   <link href="http://shihmin.github.io/"/>
-  <updated>2014-03-19T11:45:13+08:00</updated>
+  <updated>2014-03-19T12:09:50+08:00</updated>
   <id>http://shihmin.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Shihmin]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[加個圖案來瞅瞅]]></title>
+    <link href="http://shihmin.github.io/blog/2014/03/19/jia-ge-tu-an-lai-chou-chou/"/>
+    <updated>2014-03-19T12:00:03+08:00</updated>
+    <id>http://shihmin.github.io/blog/2014/03/19/jia-ge-tu-an-lai-chou-chou</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://shihmin.github.io/images/post/Arya-Stark-Banner-590x220.jpg" title="Brave Arya" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[新post]]></title>
